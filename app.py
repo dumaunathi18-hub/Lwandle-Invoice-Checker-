@@ -14,7 +14,7 @@ st.set_page_config(
     page_title="Invoice Validation Checker", page_icon="📋", layout="centered"
 )
 
-st.title("📋 Invoice Validation Checker")
+st.title("📋 Lwandle Invoice Validation")
 st.write(
     "Upload your CSV invoice file below to automatically check for bank account changes and duplicate invoice numbers."
 )
